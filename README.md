@@ -1,5 +1,5 @@
-<h3 align="center">Hi 👋, I'm YT</h3>
-<h3 align="center">A passionate web-develop learner from Taiwan.</h3>
+<h3>Hi 👋, I'm YT</h3>
+<p>A passionate web-develop learner from Taiwan.</p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/chc952832](https://github.com/chc952832)
 
